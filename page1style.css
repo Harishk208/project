@@ -1,0 +1,36 @@
+h1 {
+  font-size: 30px;
+  font-style: italic;
+}
+p {
+  font-style: italic;
+  font-size: medium;
+  color: aqua;
+}
+h2 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h3 {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+h1 {
+  color: aqua;
+}
+body {
+  background-color: black;
+}
+h1 {
+  color: aqua;
+}
+h2 {
+  color: white;
+}
+h3 {
+  color: white;
+}
+img {
+  margin-left: 35px;
+}
+a {
+  font-size: 150%;
+}
